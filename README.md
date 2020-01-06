@@ -5,5 +5,5 @@ This is a collection of notes to help anyone learn JavaScript fundamentals using
 To Begin:
 1) Clone down the Repo.
 2) Open the index.html + sketch.js file.
-3) Download extension live-p5 in code editor to view your p5.js code.
+3) Download extension p5canvas in code editor to view your p5.js code.
 4) Use notes, in order, to begin learning how to build.
